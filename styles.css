@@ -1,0 +1,66 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(13, 169, 181);
+}
+
+.optionContainer{
+    margin: 70px 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:50px;
+    justify-content: space-around;
+}
+
+.optionbtn{
+    border: 1px solid white;
+    width: 180px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    color:white;
+    font-weight: 300;
+}
+
+.fixmadness{
+    background-color: rgb(116, 219, 198);
+}
+
+.infinitemadness{
+    background-color: rgb(127, 172, 255);
+
+}
+
+.gradientmadness{
+
+    background-color: rgb(248, 93, 93);
+
+}
+
+
+.mainContainer{
+    display: flex;
+    flex-direction: column;
+    margin: 150px 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.mainbtn{
+    border: 2px solid white;
+    border-radius: 5px;
+    width: 200px;
+    padding:20px;
+    background-color: rgb(246, 213, 104);
+    font-weight: 300;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.madnessAnswer{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(24, 103, 172, 0.278);
+}
+
