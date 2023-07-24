@@ -18,8 +18,8 @@ body{
     padding: 20px;
     text-align: center;
     border-radius: 5px;
-    color:white;
     font-weight: 300;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .fixmadness{
@@ -37,7 +37,6 @@ body{
 
 }
 
-
 .mainContainer{
     display: flex;
     flex-direction: column;
@@ -45,7 +44,6 @@ body{
     justify-content: center;
     align-items: center;
 }
-
 
 .mainbtn{
     border: 2px solid white;
